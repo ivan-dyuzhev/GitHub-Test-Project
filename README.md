@@ -3,4 +3,4 @@
 
 <h2>Get-Help</h2>
 <p>Get-Help is a useful command to help understand what a specific cmdlet does and explain concepts.</p>
-<img src="GetHelp.png" alt="Get-Help cmdlet">
+<img src="C:\Users\Ivan\Downloads\Images\GetHelp.png" alt="Get-Help cmdlet">
