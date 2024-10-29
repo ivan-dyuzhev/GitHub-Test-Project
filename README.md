@@ -4,7 +4,7 @@
 
 <h2>Get-Help</h2>
 <p>Get-Help is a useful command to help understand what a specific cmdlet does and explain concepts.</p>
-<img src="Images/GetHelp.png" alt="Get-Help cmdlet" style="width:400px;height:500px;">
+<img src="./Images/GetHelp.png" alt="Get-Help cmdlet" style="width:400px;height:500px;">
 
 <h2>Get-Command</h2>
 <p>Get-command displays all cmdlets or helps locate a specific cmdlet through filters.</p>
