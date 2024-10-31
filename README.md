@@ -8,11 +8,11 @@
 
 <h2>Get-Command</h2>
 <p>Get-command displays all cmdlets or helps locate a specific cmdlet through filters.</p>
-<img>
+<img src="assets/GetCommand.png" alt="Get-Command cmdlet" >
 
 <h2>Get-Process</h2>
 <p>Get-Process displays all the active processes running on the computer </p>
-<img>
+<img src="assets/GetProcess.png" alt="Get-Process cmdlet">
 
 <h2>Get-Service</h2>
 <p>Get-Service displays all the system services running or stopped.</p>
